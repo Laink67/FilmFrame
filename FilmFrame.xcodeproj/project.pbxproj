@@ -1,0 +1,1273 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C1AD28B23AE824800F502E8 /* 1990s-RuЛеонRuEnLeonEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1EC23AE824800F502E8 /* 1990s-RuЛеонRuEnLeonEn.jpg */; };
+		2C1AD28C23AE824800F502E8 /* 1990s-RuДжуманджиRuEnJumanjiEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1ED23AE824800F502E8 /* 1990s-RuДжуманджиRuEnJumanjiEn.jpg */; };
+		2C1AD28D23AE824800F502E8 /* 1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1EE23AE824800F502E8 /* 1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg */; };
+		2C1AD28E23AE824800F502E8 /* 1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1EF23AE824800F502E8 /* 1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg */; };
+		2C1AD28F23AE824800F502E8 /* 1990s-RuНа_иглеRuEnTrainspottingEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F023AE824800F502E8 /* 1990s-RuНа_иглеRuEnTrainspottingEn.jpg */; };
+		2C1AD29023AE824800F502E8 /* 1990s-RuМумияRuEnThe_MummyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F123AE824800F502E8 /* 1990s-RuМумияRuEnThe_MummyEn.jpg */; };
+		2C1AD29123AE824800F502E8 /* 1990s-RuСемьRuEnSevenEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F223AE824800F502E8 /* 1990s-RuСемьRuEnSevenEn.jpg */; };
+		2C1AD29223AE824800F502E8 /* 1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F323AE824800F502E8 /* 1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg */; };
+		2C1AD29323AE824800F502E8 /* 1990s-RuМатрицаRuEnThe_MatrixEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F423AE824800F502E8 /* 1990s-RuМатрицаRuEnThe_MatrixEn.jpg */; };
+		2C1AD29423AE824800F502E8 /* 1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F523AE824800F502E8 /* 1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg */; };
+		2C1AD29523AE824800F502E8 /* 1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F623AE824800F502E8 /* 1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg */; };
+		2C1AD29623AE824800F502E8 /* 1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F723AE824800F502E8 /* 1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg */; };
+		2C1AD29723AE824800F502E8 /* 1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F823AE824800F502E8 /* 1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg */; };
+		2C1AD29823AE824800F502E8 /* 1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1F923AE824800F502E8 /* 1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg */; };
+		2C1AD29923AE824800F502E8 /* 1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FA23AE824800F502E8 /* 1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg */; };
+		2C1AD29A23AE824800F502E8 /* 1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FB23AE824800F502E8 /* 1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg */; };
+		2C1AD29B23AE824800F502E8 /* 1990s-RuБратRuEnBrotherEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FC23AE824800F502E8 /* 1990s-RuБратRuEnBrotherEn.jpg */; };
+		2C1AD29C23AE824800F502E8 /* 1990s-RuОдин_домаRuEnHome_AloneEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FD23AE824800F502E8 /* 1990s-RuОдин_домаRuEnHome_AloneEn.jpg */; };
+		2C1AD29D23AE824800F502E8 /* 1990s-RuБалтоRuEnBaltoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FE23AE824800F502E8 /* 1990s-RuБалтоRuEnBaltoEn.jpg */; };
+		2C1AD29E23AE824800F502E8 /* 1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD1FF23AE824800F502E8 /* 1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg */; };
+		2C1AD29F23AE824800F502E8 /* 1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20023AE824800F502E8 /* 1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg */; };
+		2C1AD2A023AE824800F502E8 /* 1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20123AE824800F502E8 /* 1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg */; };
+		2C1AD2A123AE824800F502E8 /* 1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20223AE824800F502E8 /* 1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg */; };
+		2C1AD2A223AE824800F502E8 /* 1990s-RuТитаникRuEnTitanicEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20323AE824800F502E8 /* 1990s-RuТитаникRuEnTitanicEn.jpg */; };
+		2C1AD2A323AE824800F502E8 /* 1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20423AE824800F502E8 /* 1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg */; };
+		2C1AD2A423AE824800F502E8 /* 2010s-RuИнтерстелларRuEnInterstellarEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20623AE824800F502E8 /* 2010s-RuИнтерстелларRuEnInterstellarEn.jpg */; };
+		2C1AD2A523AE824800F502E8 /* 2010s-RuВыжившийRuEnThe_RevenantEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20723AE824800F502E8 /* 2010s-RuВыжившийRuEnThe_RevenantEn.jpg */; };
+		2C1AD2A623AE824800F502E8 /* 2010s-RuДжокерRuEnJokerEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20823AE824800F502E8 /* 2010s-RuДжокерRuEnJokerEn.jpg */; };
+		2C1AD2A723AE824800F502E8 /* 2010s-RuЗверополисRuEnZootopiaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20923AE824800F502E8 /* 2010s-RuЗверополисRuEnZootopiaEn.jpg */; };
+		2C1AD2A823AE824800F502E8 /* 2010s-RuНачалоRuEnInceptionEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20A23AE824800F502E8 /* 2010s-RuНачалоRuEnInceptionEn.jpg */; };
+		2C1AD2A923AE824800F502E8 /* 2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20B23AE824800F502E8 /* 2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg */; };
+		2C1AD2AA23AE824800F502E8 /* 2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20C23AE824800F502E8 /* 2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg */; };
+		2C1AD2AB23AE824800F502E8 /* 2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20D23AE824800F502E8 /* 2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg */; };
+		2C1AD2AC23AE824800F502E8 /* 2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20E23AE824800F502E8 /* 2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg */; };
+		2C1AD2AD23AE824800F502E8 /* 2010s-RuГоловоломкаRuEnInside_outEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD20F23AE824800F502E8 /* 2010s-RuГоловоломкаRuEnInside_outEn.jpg */; };
+		2C1AD2AE23AE824800F502E8 /* 2010s-RuМстителиRuEnThe_AvengersEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21023AE824800F502E8 /* 2010s-RuМстителиRuEnThe_AvengersEn.jpg */; };
+		2C1AD2AF23AE824800F502E8 /* 2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21123AE824800F502E8 /* 2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg */; };
+		2C1AD2B023AE824800F502E8 /* 2010s-RuЛегенда_№17RuEnLegend_№17En.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21223AE824800F502E8 /* 2010s-RuЛегенда_№17RuEnLegend_№17En.jpg */; };
+		2C1AD2B123AE824800F502E8 /* 2010s-RuБёрдмэнRuEnBirdmanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21323AE824800F502E8 /* 2010s-RuБёрдмэнRuEnBirdmanEn.jpg */; };
+		2C1AD2B223AE824800F502E8 /* 2010s-RuДэдпулRuEnDeadpoolEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21423AE824800F502E8 /* 2010s-RuДэдпулRuEnDeadpoolEn.jpg */; };
+		2C1AD2B323AE824800F502E8 /* 2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21523AE824800F502E8 /* 2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg */; };
+		2C1AD2B423AE824800F502E8 /* 2010s-Ru1+1RuEnIntouchablesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21623AE824800F502E8 /* 2010s-Ru1+1RuEnIntouchablesEn.jpg */; };
+		2C1AD2B523AE824800F502E8 /* 2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21723AE824800F502E8 /* 2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg */; };
+		2C1AD2B623AE824800F502E8 /* 2010s-RuКингсманRuEnKingsmanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21823AE824800F502E8 /* 2010s-RuКингсманRuEnKingsmanEn.jpg */; };
+		2C1AD2B723AE824800F502E8 /* 2010s-RuХоббитRuEnThe_HobbitEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21923AE824800F502E8 /* 2010s-RuХоббитRuEnThe_HobbitEn.jpg */; };
+		2C1AD2B823AE824800F502E8 /* 2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21A23AE824800F502E8 /* 2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg */; };
+		2C1AD2B923AE824800F502E8 /* 2010s-RuЛоганRuEnLoganEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21B23AE824800F502E8 /* 2010s-RuЛоганRuEnLoganEn.jpg */; };
+		2C1AD2BA23AE824800F502E8 /* 2010s-RuМалефисентаRuEnMaleficentEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21C23AE824800F502E8 /* 2010s-RuМалефисентаRuEnMaleficentEn.jpg */; };
+		2C1AD2BB23AE824800F502E8 /* 2010s-RuГрязьRuEnFilthEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21D23AE824800F502E8 /* 2010s-RuГрязьRuEnFilthEn.jpg */; };
+		2C1AD2BC23AE824800F502E8 /* 2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21E23AE824800F502E8 /* 2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg */; };
+		2C1AD2BD23AE824800F502E8 /* 2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD21F23AE824800F502E8 /* 2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg */; };
+		2C1AD2BE23AE824800F502E8 /* 2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22023AE824800F502E8 /* 2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg */; };
+		2C1AD2BF23AE824800F502E8 /* 2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22123AE824800F502E8 /* 2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg */; };
+		2C1AD2C023AE824800F502E8 /* 2010s-RuМарсианинRuEnThe_MartianEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22223AE824800F502E8 /* 2010s-RuМарсианинRuEnThe_MartianEn.jpg */; };
+		2C1AD2C123AE824800F502E8 /* 2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22323AE824800F502E8 /* 2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg */; };
+		2C1AD2C223AE824800F502E8 /* 1980s-RuРобокопRuEnRoboCopEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22523AE824800F502E8 /* 1980s-RuРобокопRuEnRoboCopEn.jpg */; };
+		2C1AD2C323AE824800F502E8 /* 1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22623AE824800F502E8 /* 1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg */; };
+		2C1AD2C423AE824800F502E8 /* 1980s-RuКоммандосRuEnCommandoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22723AE824800F502E8 /* 1980s-RuКоммандосRuEnCommandoEn.jpg */; };
+		2C1AD2C523AE824800F502E8 /* 1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22823AE824800F502E8 /* 1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg */; };
+		2C1AD2C623AE824800F502E8 /* 1980s-RuХищникRuEnPredatorEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22923AE824800F502E8 /* 1980s-RuХищникRuEnPredatorEn.jpg */; };
+		2C1AD2C723AE824800F502E8 /* 1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22A23AE824800F502E8 /* 1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg */; };
+		2C1AD2C823AE824800F502E8 /* 1980s-RuБеглецыRuEnLes_fugitifsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22B23AE824800F502E8 /* 1980s-RuБеглецыRuEnLes_fugitifsEn.jpg */; };
+		2C1AD2C923AE824800F502E8 /* 1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22C23AE824800F502E8 /* 1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg */; };
+		2C1AD2CA23AE824800F502E8 /* 1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22D23AE824800F502E8 /* 1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg */; };
+		2C1AD2CB23AE824800F502E8 /* 1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22E23AE824800F502E8 /* 1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg */; };
+		2C1AD2CC23AE824800F502E8 /* 1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD22F23AE824800F502E8 /* 1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg */; };
+		2C1AD2CD23AE824800F502E8 /* 1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23023AE824800F502E8 /* 1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg */; };
+		2C1AD2CE23AE824800F502E8 /* 1980s-RuБэтменRuEnBatmanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23123AE824800F502E8 /* 1980s-RuБэтменRuEnBatmanEn.jpg */; };
+		2C1AD2CF23AE824800F502E8 /* 1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23223AE824800F502E8 /* 1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg */; };
+		2C1AD2D023AE824800F502E8 /* 1980s-RuТерминаторRuEnThe_TerminatorEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23323AE824800F502E8 /* 1980s-RuТерминаторRuEnThe_TerminatorEn.jpg */; };
+		2C1AD2D123AE824800F502E8 /* 1980s-RuКурьерRuEnCourierEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23423AE824800F502E8 /* 1980s-RuКурьерRuEnCourierEn.jpg */; };
+		2C1AD2D223AE824800F502E8 /* 1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23523AE824800F502E8 /* 1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg */; };
+		2C1AD2D323AE824800F502E8 /* 1980s-RuУтиные_историиRuEnDuckTalesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23623AE824800F502E8 /* 1980s-RuУтиные_историиRuEnDuckTalesEn.jpg */; };
+		2C1AD2D423AE824800F502E8 /* 1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23823AE824800F502E8 /* 1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg */; };
+		2C1AD2D523AE824800F502E8 /* 1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23923AE824800F502E8 /* 1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg */; };
+		2C1AD2D623AE824800F502E8 /* 1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23A23AE824800F502E8 /* 1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg */; };
+		2C1AD2D723AE824800F502E8 /* 1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23B23AE824800F502E8 /* 1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg */; };
+		2C1AD2D823AE824800F502E8 /* 1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23C23AE824800F502E8 /* 1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg */; };
+		2C1AD2D923AE824800F502E8 /* 1940_1970s-RuДамбоRuEnDumboEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23D23AE824800F502E8 /* 1940_1970s-RuДамбоRuEnDumboEn.jpg */; };
+		2C1AD2DA23AE824800F502E8 /* 1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23E23AE824800F502E8 /* 1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg */; };
+		2C1AD2DB23AE824800F502E8 /* 1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD23F23AE824800F502E8 /* 1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg */; };
+		2C1AD2DC23AE824800F502E8 /* 1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24023AE824800F502E8 /* 1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg */; };
+		2C1AD2DD23AE824800F502E8 /* 1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24123AE824800F502E8 /* 1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg */; };
+		2C1AD2DE23AE824800F502E8 /* 1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24223AE824800F502E8 /* 1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg */; };
+		2C1AD2DF23AE824800F502E8 /* 1940_1970s-RuВерёвкаRuEnRopeEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24323AE824800F502E8 /* 1940_1970s-RuВерёвкаRuEnRopeEn.jpg */; };
+		2C1AD2E023AE824800F502E8 /* 1940_1970s-RuФантомасRuEnFantomasEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24423AE824800F502E8 /* 1940_1970s-RuФантомасRuEnFantomasEn.jpg */; };
+		2C1AD2E123AE824800F502E8 /* 1940_1970s-RuДевчатаRuEnGirlsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24523AE824800F502E8 /* 1940_1970s-RuДевчатаRuEnGirlsEn.jpg */; };
+		2C1AD2E223AE824800F502E8 /* 1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24623AE824800F502E8 /* 1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg */; };
+		2C1AD2E323AE824800F502E8 /* 1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24723AE824800F502E8 /* 1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg */; };
+		2C1AD2E423AE824800F502E8 /* 1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24823AE824800F502E8 /* 1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg */; };
+		2C1AD2E523AE824800F502E8 /* 1940_1970s-RuБэмбиRuEnBambiEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24923AE824800F502E8 /* 1940_1970s-RuБэмбиRuEnBambiEn.jpg */; };
+		2C1AD2E623AE824800F502E8 /* 1940_1970s-RuПсихоRuEnPsychoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24A23AE824800F502E8 /* 1940_1970s-RuПсихоRuEnPsychoEn.jpg */; };
+		2C1AD2E723AE824800F502E8 /* 1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24B23AE824800F502E8 /* 1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg */; };
+		2C1AD2E823AE824800F502E8 /* 1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24C23AE824800F502E8 /* 1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg */; };
+		2C1AD2E923AE824800F502E8 /* 1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24D23AE824800F502E8 /* 1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg */; };
+		2C1AD2EA23AE824800F502E8 /* 1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24E23AE824800F502E8 /* 1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg */; };
+		2C1AD2EB23AE824800F502E8 /* 1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD24F23AE824800F502E8 /* 1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg */; };
+		2C1AD2EC23AE824800F502E8 /* 1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25023AE824800F502E8 /* 1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg */; };
+		2C1AD2ED23AE824800F502E8 /* 1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25123AE824800F502E8 /* 1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg */; };
+		2C1AD2EE23AE824800F502E8 /* 1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25223AE824800F502E8 /* 1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg */; };
+		2C1AD2EF23AE824800F502E8 /* 2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25423AE824800F502E8 /* 2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg */; };
+		2C1AD2F023AE824800F502E8 /* 2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25523AE824800F502E8 /* 2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg */; };
+		2C1AD2F123AE824800F502E8 /* 2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25623AE824800F502E8 /* 2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg */; };
+		2C1AD2F223AE824800F502E8 /* 2000s-RuПрестижRuEnThe_PrestigeEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25723AE824800F502E8 /* 2000s-RuПрестижRuEnThe_PrestigeEn.jpg */; };
+		2C1AD2F323AE824800F502E8 /* 2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25823AE824800F502E8 /* 2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg */; };
+		2C1AD2F423AE824800F502E8 /* 2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25923AE824800F502E8 /* 2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg */; };
+		2C1AD2F523AE824800F502E8 /* 2000s-RuПилаRuEnSawEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25A23AE824800F502E8 /* 2000s-RuПилаRuEnSawEn.jpg */; };
+		2C1AD2F623AE824800F502E8 /* 2000s-RuОтступникиRuEnThe_DepartedEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25B23AE824800F502E8 /* 2000s-RuОтступникиRuEnThe_DepartedEn.jpg */; };
+		2C1AD2F723AE824800F502E8 /* 2000s-RuВаллиRuEnWALL_EEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25C23AE824800F502E8 /* 2000s-RuВаллиRuEnWALL_EEn.jpg */; };
+		2C1AD2F823AE824800F502E8 /* 2000s-RuАватарRuEnAvatarEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25D23AE824800F502E8 /* 2000s-RuАватарRuEnAvatarEn.jpg */; };
+		2C1AD2F923AE824800F502E8 /* 2000s-RuХулиганыRuEnHooligansEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25E23AE824800F502E8 /* 2000s-RuХулиганыRuEnHooligansEn.jpg */; };
+		2C1AD2FA23AE824800F502E8 /* 2000s-RuВверхRuEnUpEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD25F23AE824800F502E8 /* 2000s-RuВверхRuEnUpEn.jpg */; };
+		2C1AD2FB23AE824800F502E8 /* 2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26023AE824800F502E8 /* 2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg */; };
+		2C1AD2FC23AE824800F502E8 /* 2000s-RuПомниRuEnMementoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26123AE824800F502E8 /* 2000s-RuПомниRuEnMementoEn.jpg */; };
+		2C1AD2FD23AE824800F502E8 /* 2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26223AE824800F502E8 /* 2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg */; };
+		2C1AD2FE23AE824800F502E8 /* 2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26323AE824800F502E8 /* 2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg */; };
+		2C1AD2FF23AE824800F502E8 /* 2000s-RuГладиаторRuEnGladiatorEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26423AE824800F502E8 /* 2000s-RuГладиаторRuEnGladiatorEn.jpg */; };
+		2C1AD30023AE824800F502E8 /* 2000s-RuШрэкRuEnShrekEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26523AE824800F502E8 /* 2000s-RuШрэкRuEnShrekEn.jpg */; };
+		2C1AD30123AE824800F502E8 /* 2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26623AE824800F502E8 /* 2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg */; };
+		2C1AD30223AE824800F502E8 /* 2000s-RuПианистRuEnThe_PianistEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26723AE824800F502E8 /* 2000s-RuПианистRuEnThe_PianistEn.jpg */; };
+		2C1AD30323AE824800F502E8 /* 2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26823AE824800F502E8 /* 2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg */; };
+		2C1AD30423AE824800F502E8 /* 2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26923AE824800F502E8 /* 2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg */; };
+		2C1AD30523AE824800F502E8 /* 2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26A23AE824800F502E8 /* 2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg */; };
+		2C1AD30623AE824800F502E8 /* 2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26B23AE824800F502E8 /* 2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg */; };
+		2C1AD30723AE824800F502E8 /* 2000s-RuХатикоRuEnHachiEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26C23AE824800F502E8 /* 2000s-RuХатикоRuEnHachiEn.jpg */; };
+		2C1AD30823AE824800F502E8 /* 2000s-RuТрояRuEnTroyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26D23AE824800F502E8 /* 2000s-RuТрояRuEnTroyEn.jpg */; };
+		2C1AD30923AE824800F502E8 /* 2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26E23AE824800F502E8 /* 2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg */; };
+		2C1AD30A23AE824800F502E8 /* 2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD26F23AE824800F502E8 /* 2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg */; };
+		2C1AD30B23AE824800F502E8 /* 2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27023AE824800F502E8 /* 2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg */; };
+		2C1AD30C23AE824800F502E8 /* 2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27123AE824800F502E8 /* 2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg */; };
+		2C1AD30D23AE824800F502E8 /* 2000s-RuБольшой_кушRuEnSnatchEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27223AE824800F502E8 /* 2000s-RuБольшой_кушRuEnSnatchEn.jpg */; };
+		2C1AD30E23AE824800F502E8 /* 2000s-RuЖелезный_человекRuEnIron_ManEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27323AE824800F502E8 /* 2000s-RuЖелезный_человекRuEnIron_ManEn.jpg */; };
+		2C1AD30F23AE824800F502E8 /* 2000s-RuТрасса_60RuEnInterstate_60En.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27423AE824800F502E8 /* 2000s-RuТрасса_60RuEnInterstate_60En.jpg */; };
+		2C1AD31023AE824800F502E8 /* 1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27623AE824800F502E8 /* 1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg */; };
+		2C1AD31123AE824800F502E8 /* 1970s-RuТаксистRuEnTaxi_DriverEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27723AE824800F502E8 /* 1970s-RuТаксистRuEnTaxi_DriverEn.jpg */; };
+		2C1AD31223AE824800F502E8 /* 1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27823AE824800F502E8 /* 1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg */; };
+		2C1AD31323AE824800F502E8 /* 1970s-RuНу_погодиRuEnNu_pogodiEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27923AE824800F502E8 /* 1970s-RuНу_погодиRuEnNu_pogodiEn.jpg */; };
+		2C1AD31423AE824800F502E8 /* 1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27A23AE824800F502E8 /* 1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg */; };
+		2C1AD31523AE824800F502E8 /* 1970s-RuСталкерRuEnStalkerEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27B23AE824800F502E8 /* 1970s-RuСталкерRuEnStalkerEn.jpg */; };
+		2C1AD31623AE824800F502E8 /* 1970s-RuЧелюстиRuEnJawsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27C23AE824800F502E8 /* 1970s-RuЧелюстиRuEnJawsEn.jpg */; };
+		2C1AD31723AE824800F502E8 /* 1970s-Ru12_стульевRuEn12_chairsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27D23AE824800F502E8 /* 1970s-Ru12_стульевRuEn12_chairsEn.jpg */; };
+		2C1AD31823AE824800F502E8 /* 1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27E23AE824800F502E8 /* 1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg */; };
+		2C1AD31923AE824800F502E8 /* 1970s-RuХэллоуинRuEnHalloweenEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD27F23AE824800F502E8 /* 1970s-RuХэллоуинRuEnHalloweenEn.jpg */; };
+		2C1AD31A23AE824800F502E8 /* 1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28023AE824800F502E8 /* 1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg */; };
+		2C1AD31B23AE824800F502E8 /* 1970s-RuКитайский_кварталRuEnChinatownEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28123AE824800F502E8 /* 1970s-RuКитайский_кварталRuEnChinatownEn.jpg */; };
+		2C1AD31C23AE824800F502E8 /* 1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28223AE824800F502E8 /* 1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg */; };
+		2C1AD31D23AE824800F502E8 /* 1970s-RuЧужойRuEnAlienEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28323AE824800F502E8 /* 1970s-RuЧужойRuEnAlienEn.jpg */; };
+		2C1AD31E23AE824800F502E8 /* 1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28423AE824800F502E8 /* 1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg */; };
+		2C1AD31F23AE824800F502E8 /* 1970s-RuМотылёкRuEnPapillonEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28523AE824800F502E8 /* 1970s-RuМотылёкRuEnPapillonEn.jpg */; };
+		2C1AD32023AE824800F502E8 /* 1970s-RuИгрушкаRuEnToyEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28623AE824800F502E8 /* 1970s-RuИгрушкаRuEnToyEn.jpg */; };
+		2C1AD32123AE824800F502E8 /* 1970s-RuБриолинRuEnGreaseEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28723AE824800F502E8 /* 1970s-RuБриолинRuEnGreaseEn.jpg */; };
+		2C1AD32223AE824800F502E8 /* 1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28823AE824800F502E8 /* 1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg */; };
+		2C1AD32323AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28923AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg */; };
+		2C1AD32423AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28A23AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg */; };
+		2C1AD32623AEADC600F502E8 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */; };
+		2C7E744E23AD3739009BEF90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E744D23AD3739009BEF90 /* AppDelegate.swift */; };
+		2C7E745023AD3739009BEF90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E744F23AD3739009BEF90 /* SceneDelegate.swift */; };
+		2C7E745223AD3739009BEF90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E745123AD3739009BEF90 /* ViewController.swift */; };
+		2C7E745523AD3739009BEF90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C7E745323AD3739009BEF90 /* Main.storyboard */; };
+		2C7E745723AD373C009BEF90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C7E745623AD373C009BEF90 /* Assets.xcassets */; };
+		2C7E745A23AD373C009BEF90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C7E745823AD373C009BEF90 /* LaunchScreen.storyboard */; };
+		2C7E746523AD373C009BEF90 /* FilmFrameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E746423AD373C009BEF90 /* FilmFrameTests.swift */; };
+		2C7E747023AD373C009BEF90 /* FilmFrameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E746F23AD373C009BEF90 /* FilmFrameUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2C7E746123AD373C009BEF90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2C7E744223AD3739009BEF90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2C7E744923AD3739009BEF90;
+			remoteInfo = FilmFrame;
+		};
+		2C7E746C23AD373C009BEF90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2C7E744223AD3739009BEF90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2C7E744923AD3739009BEF90;
+			remoteInfo = FilmFrame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2C1AD1EC23AE824800F502E8 /* 1990s-RuЛеонRuEnLeonEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuЛеонRuEnLeonEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1ED23AE824800F502E8 /* 1990s-RuДжуманджиRuEnJumanjiEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuДжуманджиRuEnJumanjiEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1EE23AE824800F502E8 /* 1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1EF23AE824800F502E8 /* 1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F023AE824800F502E8 /* 1990s-RuНа_иглеRuEnTrainspottingEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuНа_иглеRuEnTrainspottingEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F123AE824800F502E8 /* 1990s-RuМумияRuEnThe_MummyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuМумияRuEnThe_MummyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F223AE824800F502E8 /* 1990s-RuСемьRuEnSevenEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuСемьRuEnSevenEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F323AE824800F502E8 /* 1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F423AE824800F502E8 /* 1990s-RuМатрицаRuEnThe_MatrixEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuМатрицаRuEnThe_MatrixEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F523AE824800F502E8 /* 1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F623AE824800F502E8 /* 1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F723AE824800F502E8 /* 1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F823AE824800F502E8 /* 1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1F923AE824800F502E8 /* 1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FA23AE824800F502E8 /* 1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FB23AE824800F502E8 /* 1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FC23AE824800F502E8 /* 1990s-RuБратRuEnBrotherEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuБратRuEnBrotherEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FD23AE824800F502E8 /* 1990s-RuОдин_домаRuEnHome_AloneEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuОдин_домаRuEnHome_AloneEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FE23AE824800F502E8 /* 1990s-RuБалтоRuEnBaltoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuБалтоRuEnBaltoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD1FF23AE824800F502E8 /* 1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20023AE824800F502E8 /* 1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20123AE824800F502E8 /* 1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20223AE824800F502E8 /* 1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20323AE824800F502E8 /* 1990s-RuТитаникRuEnTitanicEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuТитаникRuEnTitanicEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20423AE824800F502E8 /* 1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20623AE824800F502E8 /* 2010s-RuИнтерстелларRuEnInterstellarEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuИнтерстелларRuEnInterstellarEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20723AE824800F502E8 /* 2010s-RuВыжившийRuEnThe_RevenantEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuВыжившийRuEnThe_RevenantEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20823AE824800F502E8 /* 2010s-RuДжокерRuEnJokerEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuДжокерRuEnJokerEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20923AE824800F502E8 /* 2010s-RuЗверополисRuEnZootopiaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuЗверополисRuEnZootopiaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20A23AE824800F502E8 /* 2010s-RuНачалоRuEnInceptionEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuНачалоRuEnInceptionEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20B23AE824800F502E8 /* 2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20C23AE824800F502E8 /* 2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20D23AE824800F502E8 /* 2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20E23AE824800F502E8 /* 2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD20F23AE824800F502E8 /* 2010s-RuГоловоломкаRuEnInside_outEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuГоловоломкаRuEnInside_outEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21023AE824800F502E8 /* 2010s-RuМстителиRuEnThe_AvengersEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuМстителиRuEnThe_AvengersEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21123AE824800F502E8 /* 2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21223AE824800F502E8 /* 2010s-RuЛегенда_№17RuEnLegend_№17En.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuЛегенда_№17RuEnLegend_№17En.jpg"; sourceTree = "<group>"; };
+		2C1AD21323AE824800F502E8 /* 2010s-RuБёрдмэнRuEnBirdmanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuБёрдмэнRuEnBirdmanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21423AE824800F502E8 /* 2010s-RuДэдпулRuEnDeadpoolEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuДэдпулRuEnDeadpoolEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21523AE824800F502E8 /* 2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21623AE824800F502E8 /* 2010s-Ru1+1RuEnIntouchablesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-Ru1+1RuEnIntouchablesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21723AE824800F502E8 /* 2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21823AE824800F502E8 /* 2010s-RuКингсманRuEnKingsmanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuКингсманRuEnKingsmanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21923AE824800F502E8 /* 2010s-RuХоббитRuEnThe_HobbitEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuХоббитRuEnThe_HobbitEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21A23AE824800F502E8 /* 2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21B23AE824800F502E8 /* 2010s-RuЛоганRuEnLoganEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuЛоганRuEnLoganEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21C23AE824800F502E8 /* 2010s-RuМалефисентаRuEnMaleficentEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuМалефисентаRuEnMaleficentEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21D23AE824800F502E8 /* 2010s-RuГрязьRuEnFilthEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuГрязьRuEnFilthEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21E23AE824800F502E8 /* 2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg"; sourceTree = "<group>"; };
+		2C1AD21F23AE824800F502E8 /* 2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22023AE824800F502E8 /* 2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22123AE824800F502E8 /* 2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg"; sourceTree = "<group>"; };
+		2C1AD22223AE824800F502E8 /* 2010s-RuМарсианинRuEnThe_MartianEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuМарсианинRuEnThe_MartianEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22323AE824800F502E8 /* 2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22523AE824800F502E8 /* 1980s-RuРобокопRuEnRoboCopEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuРобокопRuEnRoboCopEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22623AE824800F502E8 /* 1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22723AE824800F502E8 /* 1980s-RuКоммандосRuEnCommandoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuКоммандосRuEnCommandoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22823AE824800F502E8 /* 1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22923AE824800F502E8 /* 1980s-RuХищникRuEnPredatorEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuХищникRuEnPredatorEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22A23AE824800F502E8 /* 1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22B23AE824800F502E8 /* 1980s-RuБеглецыRuEnLes_fugitifsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuБеглецыRuEnLes_fugitifsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22C23AE824800F502E8 /* 1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22D23AE824800F502E8 /* 1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22E23AE824800F502E8 /* 1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD22F23AE824800F502E8 /* 1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23023AE824800F502E8 /* 1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23123AE824800F502E8 /* 1980s-RuБэтменRuEnBatmanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuБэтменRuEnBatmanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23223AE824800F502E8 /* 1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23323AE824800F502E8 /* 1980s-RuТерминаторRuEnThe_TerminatorEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuТерминаторRuEnThe_TerminatorEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23423AE824800F502E8 /* 1980s-RuКурьерRuEnCourierEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuКурьерRuEnCourierEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23523AE824800F502E8 /* 1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23623AE824800F502E8 /* 1980s-RuУтиные_историиRuEnDuckTalesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1980s-RuУтиные_историиRuEnDuckTalesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23823AE824800F502E8 /* 1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23923AE824800F502E8 /* 1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23A23AE824800F502E8 /* 1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23B23AE824800F502E8 /* 1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23C23AE824800F502E8 /* 1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23D23AE824800F502E8 /* 1940_1970s-RuДамбоRuEnDumboEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuДамбоRuEnDumboEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23E23AE824800F502E8 /* 1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD23F23AE824800F502E8 /* 1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24023AE824800F502E8 /* 1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24123AE824800F502E8 /* 1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24223AE824800F502E8 /* 1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24323AE824800F502E8 /* 1940_1970s-RuВерёвкаRuEnRopeEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuВерёвкаRuEnRopeEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24423AE824800F502E8 /* 1940_1970s-RuФантомасRuEnFantomasEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuФантомасRuEnFantomasEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24523AE824800F502E8 /* 1940_1970s-RuДевчатаRuEnGirlsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuДевчатаRuEnGirlsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24623AE824800F502E8 /* 1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24723AE824800F502E8 /* 1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24823AE824800F502E8 /* 1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24923AE824800F502E8 /* 1940_1970s-RuБэмбиRuEnBambiEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuБэмбиRuEnBambiEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24A23AE824800F502E8 /* 1940_1970s-RuПсихоRuEnPsychoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuПсихоRuEnPsychoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24B23AE824800F502E8 /* 1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24C23AE824800F502E8 /* 1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24D23AE824800F502E8 /* 1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24E23AE824800F502E8 /* 1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg"; sourceTree = "<group>"; };
+		2C1AD24F23AE824800F502E8 /* 1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25023AE824800F502E8 /* 1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25123AE824800F502E8 /* 1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25223AE824800F502E8 /* 1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25423AE824800F502E8 /* 2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25523AE824800F502E8 /* 2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25623AE824800F502E8 /* 2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25723AE824800F502E8 /* 2000s-RuПрестижRuEnThe_PrestigeEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПрестижRuEnThe_PrestigeEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25823AE824800F502E8 /* 2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25923AE824800F502E8 /* 2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25A23AE824800F502E8 /* 2000s-RuПилаRuEnSawEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПилаRuEnSawEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25B23AE824800F502E8 /* 2000s-RuОтступникиRuEnThe_DepartedEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuОтступникиRuEnThe_DepartedEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25C23AE824800F502E8 /* 2000s-RuВаллиRuEnWALL_EEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuВаллиRuEnWALL_EEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25D23AE824800F502E8 /* 2000s-RuАватарRuEnAvatarEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuАватарRuEnAvatarEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25E23AE824800F502E8 /* 2000s-RuХулиганыRuEnHooligansEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuХулиганыRuEnHooligansEn.jpg"; sourceTree = "<group>"; };
+		2C1AD25F23AE824800F502E8 /* 2000s-RuВверхRuEnUpEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuВверхRuEnUpEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26023AE824800F502E8 /* 2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26123AE824800F502E8 /* 2000s-RuПомниRuEnMementoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПомниRuEnMementoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26223AE824800F502E8 /* 2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26323AE824800F502E8 /* 2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26423AE824800F502E8 /* 2000s-RuГладиаторRuEnGladiatorEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuГладиаторRuEnGladiatorEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26523AE824800F502E8 /* 2000s-RuШрэкRuEnShrekEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuШрэкRuEnShrekEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26623AE824800F502E8 /* 2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26723AE824800F502E8 /* 2000s-RuПианистRuEnThe_PianistEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuПианистRuEnThe_PianistEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26823AE824800F502E8 /* 2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26923AE824800F502E8 /* 2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26A23AE824800F502E8 /* 2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26B23AE824800F502E8 /* 2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26C23AE824800F502E8 /* 2000s-RuХатикоRuEnHachiEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuХатикоRuEnHachiEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26D23AE824800F502E8 /* 2000s-RuТрояRuEnTroyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuТрояRuEnTroyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26E23AE824800F502E8 /* 2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg"; sourceTree = "<group>"; };
+		2C1AD26F23AE824800F502E8 /* 2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27023AE824800F502E8 /* 2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27123AE824800F502E8 /* 2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg"; sourceTree = "<group>"; };
+		2C1AD27223AE824800F502E8 /* 2000s-RuБольшой_кушRuEnSnatchEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuБольшой_кушRuEnSnatchEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27323AE824800F502E8 /* 2000s-RuЖелезный_человекRuEnIron_ManEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuЖелезный_человекRuEnIron_ManEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27423AE824800F502E8 /* 2000s-RuТрасса_60RuEnInterstate_60En.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2000s-RuТрасса_60RuEnInterstate_60En.jpg"; sourceTree = "<group>"; };
+		2C1AD27623AE824800F502E8 /* 1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27723AE824800F502E8 /* 1970s-RuТаксистRuEnTaxi_DriverEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuТаксистRuEnTaxi_DriverEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27823AE824800F502E8 /* 1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27923AE824800F502E8 /* 1970s-RuНу_погодиRuEnNu_pogodiEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuНу_погодиRuEnNu_pogodiEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27A23AE824800F502E8 /* 1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27B23AE824800F502E8 /* 1970s-RuСталкерRuEnStalkerEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuСталкерRuEnStalkerEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27C23AE824800F502E8 /* 1970s-RuЧелюстиRuEnJawsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЧелюстиRuEnJawsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27D23AE824800F502E8 /* 1970s-Ru12_стульевRuEn12_chairsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-Ru12_стульевRuEn12_chairsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27E23AE824800F502E8 /* 1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg"; sourceTree = "<group>"; };
+		2C1AD27F23AE824800F502E8 /* 1970s-RuХэллоуинRuEnHalloweenEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuХэллоуинRuEnHalloweenEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28023AE824800F502E8 /* 1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28123AE824800F502E8 /* 1970s-RuКитайский_кварталRuEnChinatownEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuКитайский_кварталRuEnChinatownEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28223AE824800F502E8 /* 1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28323AE824800F502E8 /* 1970s-RuЧужойRuEnAlienEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЧужойRuEnAlienEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28423AE824800F502E8 /* 1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28523AE824800F502E8 /* 1970s-RuМотылёкRuEnPapillonEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuМотылёкRuEnPapillonEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28623AE824800F502E8 /* 1970s-RuИгрушкаRuEnToyEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuИгрушкаRuEnToyEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28723AE824800F502E8 /* 1970s-RuБриолинRuEnGreaseEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuБриолинRuEnGreaseEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28823AE824800F502E8 /* 1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28923AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg"; sourceTree = "<group>"; };
+		2C1AD28A23AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЗорроRuEnZorroEn.jpg"; sourceTree = "<group>"; };
+		2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
+		2C7E744A23AD3739009BEF90 /* FilmFrame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FilmFrame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C7E744D23AD3739009BEF90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2C7E744F23AD3739009BEF90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2C7E745123AD3739009BEF90 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2C7E745423AD3739009BEF90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2C7E745623AD373C009BEF90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2C7E745923AD373C009BEF90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2C7E745B23AD373C009BEF90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C7E746023AD373C009BEF90 /* FilmFrameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilmFrameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C7E746423AD373C009BEF90 /* FilmFrameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmFrameTests.swift; sourceTree = "<group>"; };
+		2C7E746623AD373C009BEF90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C7E746B23AD373C009BEF90 /* FilmFrameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilmFrameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C7E746F23AD373C009BEF90 /* FilmFrameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmFrameUITests.swift; sourceTree = "<group>"; };
+		2C7E747123AD373C009BEF90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2C7E744723AD3739009BEF90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E745D23AD373C009BEF90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E746823AD373C009BEF90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C1AD1D823AE7FA000F502E8 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD23723AE824800F502E8 /* 1940_1970s */,
+				2C1AD27523AE824800F502E8 /* 1970s */,
+				2C1AD22423AE824800F502E8 /* 1980s */,
+				2C1AD1EB23AE824800F502E8 /* 1990s */,
+				2C1AD25323AE824800F502E8 /* 2000s */,
+				2C1AD20523AE824800F502E8 /* 2010s */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		2C1AD1EB23AE824800F502E8 /* 1990s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD1EC23AE824800F502E8 /* 1990s-RuЛеонRuEnLeonEn.jpg */,
+				2C1AD1ED23AE824800F502E8 /* 1990s-RuДжуманджиRuEnJumanjiEn.jpg */,
+				2C1AD1EE23AE824800F502E8 /* 1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg */,
+				2C1AD1EF23AE824800F502E8 /* 1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg */,
+				2C1AD1F023AE824800F502E8 /* 1990s-RuНа_иглеRuEnTrainspottingEn.jpg */,
+				2C1AD1F123AE824800F502E8 /* 1990s-RuМумияRuEnThe_MummyEn.jpg */,
+				2C1AD1F223AE824800F502E8 /* 1990s-RuСемьRuEnSevenEn.jpg */,
+				2C1AD1F323AE824800F502E8 /* 1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg */,
+				2C1AD1F423AE824800F502E8 /* 1990s-RuМатрицаRuEnThe_MatrixEn.jpg */,
+				2C1AD1F523AE824800F502E8 /* 1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg */,
+				2C1AD1F623AE824800F502E8 /* 1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg */,
+				2C1AD1F723AE824800F502E8 /* 1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg */,
+				2C1AD1F823AE824800F502E8 /* 1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg */,
+				2C1AD1F923AE824800F502E8 /* 1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg */,
+				2C1AD1FA23AE824800F502E8 /* 1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg */,
+				2C1AD1FB23AE824800F502E8 /* 1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg */,
+				2C1AD1FC23AE824800F502E8 /* 1990s-RuБратRuEnBrotherEn.jpg */,
+				2C1AD1FD23AE824800F502E8 /* 1990s-RuОдин_домаRuEnHome_AloneEn.jpg */,
+				2C1AD1FE23AE824800F502E8 /* 1990s-RuБалтоRuEnBaltoEn.jpg */,
+				2C1AD1FF23AE824800F502E8 /* 1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg */,
+				2C1AD20023AE824800F502E8 /* 1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg */,
+				2C1AD20123AE824800F502E8 /* 1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg */,
+				2C1AD20223AE824800F502E8 /* 1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg */,
+				2C1AD20323AE824800F502E8 /* 1990s-RuТитаникRuEnTitanicEn.jpg */,
+				2C1AD20423AE824800F502E8 /* 1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg */,
+			);
+			name = 1990s;
+			path = "../../../../Downloads/assets-2/1990s";
+			sourceTree = "<group>";
+		};
+		2C1AD20523AE824800F502E8 /* 2010s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD20623AE824800F502E8 /* 2010s-RuИнтерстелларRuEnInterstellarEn.jpg */,
+				2C1AD20723AE824800F502E8 /* 2010s-RuВыжившийRuEnThe_RevenantEn.jpg */,
+				2C1AD20823AE824800F502E8 /* 2010s-RuДжокерRuEnJokerEn.jpg */,
+				2C1AD20923AE824800F502E8 /* 2010s-RuЗверополисRuEnZootopiaEn.jpg */,
+				2C1AD20A23AE824800F502E8 /* 2010s-RuНачалоRuEnInceptionEn.jpg */,
+				2C1AD20B23AE824800F502E8 /* 2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg */,
+				2C1AD20C23AE824800F502E8 /* 2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg */,
+				2C1AD20D23AE824800F502E8 /* 2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg */,
+				2C1AD20E23AE824800F502E8 /* 2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg */,
+				2C1AD20F23AE824800F502E8 /* 2010s-RuГоловоломкаRuEnInside_outEn.jpg */,
+				2C1AD21023AE824800F502E8 /* 2010s-RuМстителиRuEnThe_AvengersEn.jpg */,
+				2C1AD21123AE824800F502E8 /* 2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg */,
+				2C1AD21223AE824800F502E8 /* 2010s-RuЛегенда_№17RuEnLegend_№17En.jpg */,
+				2C1AD21323AE824800F502E8 /* 2010s-RuБёрдмэнRuEnBirdmanEn.jpg */,
+				2C1AD21423AE824800F502E8 /* 2010s-RuДэдпулRuEnDeadpoolEn.jpg */,
+				2C1AD21523AE824800F502E8 /* 2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg */,
+				2C1AD21623AE824800F502E8 /* 2010s-Ru1+1RuEnIntouchablesEn.jpg */,
+				2C1AD21723AE824800F502E8 /* 2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg */,
+				2C1AD21823AE824800F502E8 /* 2010s-RuКингсманRuEnKingsmanEn.jpg */,
+				2C1AD21923AE824800F502E8 /* 2010s-RuХоббитRuEnThe_HobbitEn.jpg */,
+				2C1AD21A23AE824800F502E8 /* 2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg */,
+				2C1AD21B23AE824800F502E8 /* 2010s-RuЛоганRuEnLoganEn.jpg */,
+				2C1AD21C23AE824800F502E8 /* 2010s-RuМалефисентаRuEnMaleficentEn.jpg */,
+				2C1AD21D23AE824800F502E8 /* 2010s-RuГрязьRuEnFilthEn.jpg */,
+				2C1AD21E23AE824800F502E8 /* 2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg */,
+				2C1AD21F23AE824800F502E8 /* 2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg */,
+				2C1AD22023AE824800F502E8 /* 2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg */,
+				2C1AD22123AE824800F502E8 /* 2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg */,
+				2C1AD22223AE824800F502E8 /* 2010s-RuМарсианинRuEnThe_MartianEn.jpg */,
+				2C1AD22323AE824800F502E8 /* 2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg */,
+			);
+			name = 2010s;
+			path = "../../../../Downloads/assets-2/2010s";
+			sourceTree = "<group>";
+		};
+		2C1AD22423AE824800F502E8 /* 1980s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD22523AE824800F502E8 /* 1980s-RuРобокопRuEnRoboCopEn.jpg */,
+				2C1AD22623AE824800F502E8 /* 1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg */,
+				2C1AD22723AE824800F502E8 /* 1980s-RuКоммандосRuEnCommandoEn.jpg */,
+				2C1AD22823AE824800F502E8 /* 1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg */,
+				2C1AD22923AE824800F502E8 /* 1980s-RuХищникRuEnPredatorEn.jpg */,
+				2C1AD22A23AE824800F502E8 /* 1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg */,
+				2C1AD22B23AE824800F502E8 /* 1980s-RuБеглецыRuEnLes_fugitifsEn.jpg */,
+				2C1AD22C23AE824800F502E8 /* 1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg */,
+				2C1AD22D23AE824800F502E8 /* 1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg */,
+				2C1AD22E23AE824800F502E8 /* 1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg */,
+				2C1AD22F23AE824800F502E8 /* 1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg */,
+				2C1AD23023AE824800F502E8 /* 1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg */,
+				2C1AD23123AE824800F502E8 /* 1980s-RuБэтменRuEnBatmanEn.jpg */,
+				2C1AD23223AE824800F502E8 /* 1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg */,
+				2C1AD23323AE824800F502E8 /* 1980s-RuТерминаторRuEnThe_TerminatorEn.jpg */,
+				2C1AD23423AE824800F502E8 /* 1980s-RuКурьерRuEnCourierEn.jpg */,
+				2C1AD23523AE824800F502E8 /* 1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg */,
+				2C1AD23623AE824800F502E8 /* 1980s-RuУтиные_историиRuEnDuckTalesEn.jpg */,
+			);
+			name = 1980s;
+			path = "../../../../Downloads/assets-2/1980s";
+			sourceTree = "<group>";
+		};
+		2C1AD23723AE824800F502E8 /* 1940_1970s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD23823AE824800F502E8 /* 1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg */,
+				2C1AD23923AE824800F502E8 /* 1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg */,
+				2C1AD23A23AE824800F502E8 /* 1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg */,
+				2C1AD23B23AE824800F502E8 /* 1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg */,
+				2C1AD23C23AE824800F502E8 /* 1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg */,
+				2C1AD23D23AE824800F502E8 /* 1940_1970s-RuДамбоRuEnDumboEn.jpg */,
+				2C1AD23E23AE824800F502E8 /* 1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg */,
+				2C1AD23F23AE824800F502E8 /* 1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg */,
+				2C1AD24023AE824800F502E8 /* 1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg */,
+				2C1AD24123AE824800F502E8 /* 1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg */,
+				2C1AD24223AE824800F502E8 /* 1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg */,
+				2C1AD24323AE824800F502E8 /* 1940_1970s-RuВерёвкаRuEnRopeEn.jpg */,
+				2C1AD24423AE824800F502E8 /* 1940_1970s-RuФантомасRuEnFantomasEn.jpg */,
+				2C1AD24523AE824800F502E8 /* 1940_1970s-RuДевчатаRuEnGirlsEn.jpg */,
+				2C1AD24623AE824800F502E8 /* 1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg */,
+				2C1AD24723AE824800F502E8 /* 1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg */,
+				2C1AD24823AE824800F502E8 /* 1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg */,
+				2C1AD24923AE824800F502E8 /* 1940_1970s-RuБэмбиRuEnBambiEn.jpg */,
+				2C1AD24A23AE824800F502E8 /* 1940_1970s-RuПсихоRuEnPsychoEn.jpg */,
+				2C1AD24B23AE824800F502E8 /* 1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg */,
+				2C1AD24C23AE824800F502E8 /* 1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg */,
+				2C1AD24D23AE824800F502E8 /* 1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg */,
+				2C1AD24E23AE824800F502E8 /* 1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg */,
+				2C1AD24F23AE824800F502E8 /* 1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg */,
+				2C1AD25023AE824800F502E8 /* 1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg */,
+				2C1AD25123AE824800F502E8 /* 1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg */,
+				2C1AD25223AE824800F502E8 /* 1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg */,
+			);
+			name = 1940_1970s;
+			path = "../../../../Downloads/assets-2/1940_1970s";
+			sourceTree = "<group>";
+		};
+		2C1AD25323AE824800F502E8 /* 2000s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD25423AE824800F502E8 /* 2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg */,
+				2C1AD25523AE824800F502E8 /* 2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg */,
+				2C1AD25623AE824800F502E8 /* 2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg */,
+				2C1AD25723AE824800F502E8 /* 2000s-RuПрестижRuEnThe_PrestigeEn.jpg */,
+				2C1AD25823AE824800F502E8 /* 2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg */,
+				2C1AD25923AE824800F502E8 /* 2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg */,
+				2C1AD25A23AE824800F502E8 /* 2000s-RuПилаRuEnSawEn.jpg */,
+				2C1AD25B23AE824800F502E8 /* 2000s-RuОтступникиRuEnThe_DepartedEn.jpg */,
+				2C1AD25C23AE824800F502E8 /* 2000s-RuВаллиRuEnWALL_EEn.jpg */,
+				2C1AD25D23AE824800F502E8 /* 2000s-RuАватарRuEnAvatarEn.jpg */,
+				2C1AD25E23AE824800F502E8 /* 2000s-RuХулиганыRuEnHooligansEn.jpg */,
+				2C1AD25F23AE824800F502E8 /* 2000s-RuВверхRuEnUpEn.jpg */,
+				2C1AD26023AE824800F502E8 /* 2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg */,
+				2C1AD26123AE824800F502E8 /* 2000s-RuПомниRuEnMementoEn.jpg */,
+				2C1AD26223AE824800F502E8 /* 2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg */,
+				2C1AD26323AE824800F502E8 /* 2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg */,
+				2C1AD26423AE824800F502E8 /* 2000s-RuГладиаторRuEnGladiatorEn.jpg */,
+				2C1AD26523AE824800F502E8 /* 2000s-RuШрэкRuEnShrekEn.jpg */,
+				2C1AD26623AE824800F502E8 /* 2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg */,
+				2C1AD26723AE824800F502E8 /* 2000s-RuПианистRuEnThe_PianistEn.jpg */,
+				2C1AD26823AE824800F502E8 /* 2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg */,
+				2C1AD26923AE824800F502E8 /* 2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg */,
+				2C1AD26A23AE824800F502E8 /* 2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg */,
+				2C1AD26B23AE824800F502E8 /* 2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg */,
+				2C1AD26C23AE824800F502E8 /* 2000s-RuХатикоRuEnHachiEn.jpg */,
+				2C1AD26D23AE824800F502E8 /* 2000s-RuТрояRuEnTroyEn.jpg */,
+				2C1AD26E23AE824800F502E8 /* 2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg */,
+				2C1AD26F23AE824800F502E8 /* 2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg */,
+				2C1AD27023AE824800F502E8 /* 2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg */,
+				2C1AD27123AE824800F502E8 /* 2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg */,
+				2C1AD27223AE824800F502E8 /* 2000s-RuБольшой_кушRuEnSnatchEn.jpg */,
+				2C1AD27323AE824800F502E8 /* 2000s-RuЖелезный_человекRuEnIron_ManEn.jpg */,
+				2C1AD27423AE824800F502E8 /* 2000s-RuТрасса_60RuEnInterstate_60En.jpg */,
+			);
+			name = 2000s;
+			path = "../../../../Downloads/assets-2/2000s";
+			sourceTree = "<group>";
+		};
+		2C1AD27523AE824800F502E8 /* 1970s */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD27623AE824800F502E8 /* 1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg */,
+				2C1AD27723AE824800F502E8 /* 1970s-RuТаксистRuEnTaxi_DriverEn.jpg */,
+				2C1AD27823AE824800F502E8 /* 1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg */,
+				2C1AD27923AE824800F502E8 /* 1970s-RuНу_погодиRuEnNu_pogodiEn.jpg */,
+				2C1AD27A23AE824800F502E8 /* 1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg */,
+				2C1AD27B23AE824800F502E8 /* 1970s-RuСталкерRuEnStalkerEn.jpg */,
+				2C1AD27C23AE824800F502E8 /* 1970s-RuЧелюстиRuEnJawsEn.jpg */,
+				2C1AD27D23AE824800F502E8 /* 1970s-Ru12_стульевRuEn12_chairsEn.jpg */,
+				2C1AD27E23AE824800F502E8 /* 1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg */,
+				2C1AD27F23AE824800F502E8 /* 1970s-RuХэллоуинRuEnHalloweenEn.jpg */,
+				2C1AD28023AE824800F502E8 /* 1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg */,
+				2C1AD28123AE824800F502E8 /* 1970s-RuКитайский_кварталRuEnChinatownEn.jpg */,
+				2C1AD28223AE824800F502E8 /* 1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg */,
+				2C1AD28323AE824800F502E8 /* 1970s-RuЧужойRuEnAlienEn.jpg */,
+				2C1AD28423AE824800F502E8 /* 1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg */,
+				2C1AD28523AE824800F502E8 /* 1970s-RuМотылёкRuEnPapillonEn.jpg */,
+				2C1AD28623AE824800F502E8 /* 1970s-RuИгрушкаRuEnToyEn.jpg */,
+				2C1AD28723AE824800F502E8 /* 1970s-RuБриолинRuEnGreaseEn.jpg */,
+				2C1AD28823AE824800F502E8 /* 1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg */,
+				2C1AD28923AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg */,
+				2C1AD28A23AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg */,
+			);
+			name = 1970s;
+			path = "../../../../Downloads/assets-2/1970s";
+			sourceTree = "<group>";
+		};
+		2C7E744123AD3739009BEF90 = {
+			isa = PBXGroup;
+			children = (
+				2C7E744C23AD3739009BEF90 /* FilmFrame */,
+				2C7E746323AD373C009BEF90 /* FilmFrameTests */,
+				2C7E746E23AD373C009BEF90 /* FilmFrameUITests */,
+				2C7E744B23AD3739009BEF90 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2C7E744B23AD3739009BEF90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2C7E744A23AD3739009BEF90 /* FilmFrame.app */,
+				2C7E746023AD373C009BEF90 /* FilmFrameTests.xctest */,
+				2C7E746B23AD373C009BEF90 /* FilmFrameUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2C7E744C23AD3739009BEF90 /* FilmFrame */ = {
+			isa = PBXGroup;
+			children = (
+				2C1AD1D823AE7FA000F502E8 /* images */,
+				2C7E745823AD373C009BEF90 /* LaunchScreen.storyboard */,
+				2C7E745B23AD373C009BEF90 /* Info.plist */,
+				2C7E745123AD3739009BEF90 /* ViewController.swift */,
+				2C7E744D23AD3739009BEF90 /* AppDelegate.swift */,
+				2C7E744F23AD3739009BEF90 /* SceneDelegate.swift */,
+				2C7E745623AD373C009BEF90 /* Assets.xcassets */,
+				2C7E745323AD3739009BEF90 /* Main.storyboard */,
+				2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */,
+			);
+			path = FilmFrame;
+			sourceTree = "<group>";
+		};
+		2C7E746323AD373C009BEF90 /* FilmFrameTests */ = {
+			isa = PBXGroup;
+			children = (
+				2C7E746423AD373C009BEF90 /* FilmFrameTests.swift */,
+				2C7E746623AD373C009BEF90 /* Info.plist */,
+			);
+			path = FilmFrameTests;
+			sourceTree = "<group>";
+		};
+		2C7E746E23AD373C009BEF90 /* FilmFrameUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2C7E746F23AD373C009BEF90 /* FilmFrameUITests.swift */,
+				2C7E747123AD373C009BEF90 /* Info.plist */,
+			);
+			path = FilmFrameUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C7E744923AD3739009BEF90 /* FilmFrame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C7E747423AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrame" */;
+			buildPhases = (
+				2C7E744623AD3739009BEF90 /* Sources */,
+				2C7E744723AD3739009BEF90 /* Frameworks */,
+				2C7E744823AD3739009BEF90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FilmFrame;
+			productName = FilmFrame;
+			productReference = 2C7E744A23AD3739009BEF90 /* FilmFrame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2C7E745F23AD373C009BEF90 /* FilmFrameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C7E747723AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrameTests" */;
+			buildPhases = (
+				2C7E745C23AD373C009BEF90 /* Sources */,
+				2C7E745D23AD373C009BEF90 /* Frameworks */,
+				2C7E745E23AD373C009BEF90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2C7E746223AD373C009BEF90 /* PBXTargetDependency */,
+			);
+			name = FilmFrameTests;
+			productName = FilmFrameTests;
+			productReference = 2C7E746023AD373C009BEF90 /* FilmFrameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2C7E746A23AD373C009BEF90 /* FilmFrameUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2C7E747A23AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrameUITests" */;
+			buildPhases = (
+				2C7E746723AD373C009BEF90 /* Sources */,
+				2C7E746823AD373C009BEF90 /* Frameworks */,
+				2C7E746923AD373C009BEF90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2C7E746D23AD373C009BEF90 /* PBXTargetDependency */,
+			);
+			name = FilmFrameUITests;
+			productName = FilmFrameUITests;
+			productReference = 2C7E746B23AD373C009BEF90 /* FilmFrameUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2C7E744223AD3739009BEF90 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "иван";
+				TargetAttributes = {
+					2C7E744923AD3739009BEF90 = {
+						CreatedOnToolsVersion = 11.3;
+					};
+					2C7E745F23AD373C009BEF90 = {
+						CreatedOnToolsVersion = 11.3;
+						TestTargetID = 2C7E744923AD3739009BEF90;
+					};
+					2C7E746A23AD373C009BEF90 = {
+						CreatedOnToolsVersion = 11.3;
+						TestTargetID = 2C7E744923AD3739009BEF90;
+					};
+				};
+			};
+			buildConfigurationList = 2C7E744523AD3739009BEF90 /* Build configuration list for PBXProject "FilmFrame" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2C7E744123AD3739009BEF90;
+			productRefGroup = 2C7E744B23AD3739009BEF90 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C7E744923AD3739009BEF90 /* FilmFrame */,
+				2C7E745F23AD373C009BEF90 /* FilmFrameTests */,
+				2C7E746A23AD373C009BEF90 /* FilmFrameUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2C7E744823AD3739009BEF90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C1AD2E223AE824800F502E8 /* 1940_1970s-RuРимские_каникулыRuEnRoman_HolidayEn.jpg in Resources */,
+				2C1AD2EA23AE824800F502E8 /* 1940_1970s-RuЛеди_и_бродягаRuEnLady_and_the_TrampEn.jpg in Resources */,
+				2C1AD30023AE824800F502E8 /* 2000s-RuШрэкRuEnShrekEn.jpg in Resources */,
+				2C1AD2F823AE824800F502E8 /* 2000s-RuАватарRuEnAvatarEn.jpg in Resources */,
+				2C1AD31823AE824800F502E8 /* 1970s-RuЗвёздные_войныRuEnStar_WarsEn.jpg in Resources */,
+				2C1AD30123AE824800F502E8 /* 2000s-RuВластелин_колецRuEnThe_Lord_of_the_RingsEn.jpg in Resources */,
+				2C1AD2C123AE824800F502E8 /* 2010s-RuОбласти_тьмыRuEnLimitlessEn.jpg in Resources */,
+				2C1AD30723AE824800F502E8 /* 2000s-RuХатикоRuEnHachiEn.jpg in Resources */,
+				2C1AD2B823AE824800F502E8 /* 2010s-RuИллюзия_обманаRuEnNow_you_see_meEn.jpg in Resources */,
+				2C1AD2D723AE824800F502E8 /* 1940_1970s-RuСпящая_красавицаRuEnSleeping_BeatyEn.jpg in Resources */,
+				2C1AD2FD23AE824800F502E8 /* 2000s-RuЯ_-_ЛегендаRuEnI_am_legendEn.jpg in Resources */,
+				2C1AD30423AE824800F502E8 /* 2000s-RuЭффект_бабочкиRuEnThe_Butterfly_EffectEn.jpg in Resources */,
+				2C1AD31723AE824800F502E8 /* 1970s-Ru12_стульевRuEn12_chairsEn.jpg in Resources */,
+				2C1AD2E023AE824800F502E8 /* 1940_1970s-RuФантомасRuEnFantomasEn.jpg in Resources */,
+				2C1AD2F723AE824800F502E8 /* 2000s-RuВаллиRuEnWALL_EEn.jpg in Resources */,
+				2C1AD29623AE824800F502E8 /* 1990s-RuДень_суркаRuEnGroundhog_DayEn.jpg in Resources */,
+				2C1AD31B23AE824800F502E8 /* 1970s-RuКитайский_кварталRuEnChinatownEn.jpg in Resources */,
+				2C1AD2B223AE824800F502E8 /* 2010s-RuДэдпулRuEnDeadpoolEn.jpg in Resources */,
+				2C1AD2DC23AE824800F502E8 /* 1940_1970s-RuКнига_ДжунглейRuEnThe_Jungle_BookEn.jpg in Resources */,
+				2C1AD29723AE824800F502E8 /* 1990s-RuСписок_ШиндлераRuEnSchindlers_ListEn.jpg in Resources */,
+				2C1AD29423AE824800F502E8 /* 1990s-RuБольшой_ЛебовскиRuEnThe_Big_LebowskiEn.jpg in Resources */,
+				2C1AD30D23AE824800F502E8 /* 2000s-RuБольшой_кушRuEnSnatchEn.jpg in Resources */,
+				2C1AD2C723AE824800F502E8 /* 1980s-RuПоездка_в_АмерикуRuEnComing_to_AmericaEn.jpg in Resources */,
+				2C1AD2DD23AE824800F502E8 /* 1940_1970s-RuКосмическая_ОдиссеяRuEnA_Space_OdysseyEn.jpg in Resources */,
+				2C1AD2F323AE824800F502E8 /* 2000s-RuИгры_разумаRuEnA_Beautiful_MindEn.jpg in Resources */,
+				2C1AD2A023AE824800F502E8 /* 1990s-RuИстория_игрушекRuEnToy_StoryEn.jpg in Resources */,
+				2C1AD2D623AE824800F502E8 /* 1940_1970s-RuГражданин_КейнRuEnCitizen_KaneEn.jpg in Resources */,
+				2C1AD31C23AE824800F502E8 /* 1970s-RuЗаводной_апельсинRuEnA_Clockwork_OrangeEn.jpg in Resources */,
+				2C1AD29523AE824800F502E8 /* 1990s-RuФорест_ГампRuEnForrest_GumpEn.jpg in Resources */,
+				2C1AD2CD23AE824800F502E8 /* 1980s-RuБегущий_по_лезвиюRuEnBlade_RunnerEn.jpg in Resources */,
+				2C1AD2F923AE824800F502E8 /* 2000s-RuХулиганыRuEnHooligansEn.jpg in Resources */,
+				2C1AD30623AE824800F502E8 /* 2000s-RuЗвёздный_путьRuEnStar_TrekEn.jpg in Resources */,
+				2C1AD30823AE824800F502E8 /* 2000s-RuТрояRuEnTroyEn.jpg in Resources */,
+				2C1AD2F223AE824800F502E8 /* 2000s-RuПрестижRuEnThe_PrestigeEn.jpg in Resources */,
+				2C1AD2CF23AE824800F502E8 /* 1980s-RuКлуб_ЗавтракRuEnThe_Breakfast_ClubEn.jpg in Resources */,
+				2C1AD31A23AE824800F502E8 /* 1970s-RuВ_бой_идут_одни_старикиRuEnOnly_old_men_are_going_to_the_battleEn.jpg in Resources */,
+				2C1AD2DB23AE824800F502E8 /* 1940_1970s-RuХороший,_плохой,_злойRuEnThe_Good,_the_Bad_and_the_UglyEn.jpg in Resources */,
+				2C1AD31923AE824800F502E8 /* 1970s-RuХэллоуинRuEnHalloweenEn.jpg in Resources */,
+				2C1AD2F523AE824800F502E8 /* 2000s-RuПилаRuEnSawEn.jpg in Resources */,
+				2C1AD2BE23AE824800F502E8 /* 2010s-RuБогемская_рапсодияRuEnBohemian_RhapsodyEn.jpg in Resources */,
+				2C7E745A23AD373C009BEF90 /* LaunchScreen.storyboard in Resources */,
+				2C1AD2C323AE824800F502E8 /* 1980s-RuЛюбовь_и_голубиRuEnLove_and_pigeonsEn.jpg in Resources */,
+				2C1AD2E323AE824800F502E8 /* 1940_1970s-RuКонёк-ГорбунокRuEnLittle_Magic_HorseEn.jpg in Resources */,
+				2C1AD2B923AE824800F502E8 /* 2010s-RuЛоганRuEnLoganEn.jpg in Resources */,
+				2C1AD2A323AE824800F502E8 /* 1990s-RuБойцовский_клубRuEnFight_ClubEn.jpg in Resources */,
+				2C1AD2C423AE824800F502E8 /* 1980s-RuКоммандосRuEnCommandoEn.jpg in Resources */,
+				2C1AD2BB23AE824800F502E8 /* 2010s-RuГрязьRuEnFilthEn.jpg in Resources */,
+				2C1AD31223AE824800F502E8 /* 1970s-RuБезумный_МаксRuEnMad_MaxEn.jpg in Resources */,
+				2C1AD31123AE824800F502E8 /* 1970s-RuТаксистRuEnTaxi_DriverEn.jpg in Resources */,
+				2C1AD32123AE824800F502E8 /* 1970s-RuБриолинRuEnGreaseEn.jpg in Resources */,
+				2C1AD2C623AE824800F502E8 /* 1980s-RuХищникRuEnPredatorEn.jpg in Resources */,
+				2C1AD2C923AE824800F502E8 /* 1980s-RuПростоквашиноRuEnProstokvashinoEn.jpg in Resources */,
+				2C1AD28F23AE824800F502E8 /* 1990s-RuНа_иглеRuEnTrainspottingEn.jpg in Resources */,
+				2C1AD31D23AE824800F502E8 /* 1970s-RuЧужойRuEnAlienEn.jpg in Resources */,
+				2C1AD2C023AE824800F502E8 /* 2010s-RuМарсианинRuEnThe_MartianEn.jpg in Resources */,
+				2C1AD30B23AE824800F502E8 /* 2000s-RuБесславные_ублюдкиRuEnInglourious_BasterdsEn.jpg in Resources */,
+				2C1AD29C23AE824800F502E8 /* 1990s-RuОдин_домаRuEnHome_AloneEn.jpg in Resources */,
+				2C1AD2F123AE824800F502E8 /* 2000s-RuРок-н-рольщикRuEnRocknRollaEn.jpg in Resources */,
+				2C1AD2A923AE824800F502E8 /* 2010s-RuМачо_и_ботанRuEn21_Jump_streetEn.jpg in Resources */,
+				2C1AD2B723AE824800F502E8 /* 2010s-RuХоббитRuEnThe_HobbitEn.jpg in Resources */,
+				2C1AD28B23AE824800F502E8 /* 1990s-RuЛеонRuEnLeonEn.jpg in Resources */,
+				2C1AD31623AE824800F502E8 /* 1970s-RuЧелюстиRuEnJawsEn.jpg in Resources */,
+				2C1AD2D923AE824800F502E8 /* 1940_1970s-RuДамбоRuEnDumboEn.jpg in Resources */,
+				2C1AD32423AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg in Resources */,
+				2C1AD2ED23AE824800F502E8 /* 1940_1970s-RuВ_джазе_только_девушкиRuEnSome_like_it_hotEn.jpg in Resources */,
+				2C1AD2BD23AE824800F502E8 /* 2010s-RuЛа-Ла_ЛэндRuEnLa_La_LandEn.jpg in Resources */,
+				2C7E745723AD373C009BEF90 /* Assets.xcassets in Resources */,
+				2C1AD31423AE824800F502E8 /* 1970s-RuИван_Васильевич_меняет_профессиюRuEnIvan_Vasilevich_Back_to_the_futureEn.jpg in Resources */,
+				2C1AD2D323AE824800F502E8 /* 1980s-RuУтиные_историиRuEnDuckTalesEn.jpg in Resources */,
+				2C1AD31F23AE824800F502E8 /* 1970s-RuМотылёкRuEnPapillonEn.jpg in Resources */,
+				2C1AD2DE23AE824800F502E8 /* 1940_1970s-Ru12_месяцевRuEn12_monthsEn.jpg in Resources */,
+				2C1AD2E423AE824800F502E8 /* 1940_1970s-RuИван_ГрозныйRuEnIvan_IVEn.jpg in Resources */,
+				2C7E745523AD3739009BEF90 /* Main.storyboard in Resources */,
+				2C1AD2A723AE824800F502E8 /* 2010s-RuЗверополисRuEnZootopiaEn.jpg in Resources */,
+				2C1AD2E123AE824800F502E8 /* 1940_1970s-RuДевчатаRuEnGirlsEn.jpg in Resources */,
+				2C1AD2AB23AE824800F502E8 /* 2010s-RuОтель_Гранд_БудапештRuEnThe_Grand_Budapest_hotelEn.jpg in Resources */,
+				2C1AD28E23AE824800F502E8 /* 1990s-RuСонная_ЛощинаRuEnSleepy_HollowEn.jpg in Resources */,
+				2C1AD30523AE824800F502E8 /* 2000s-RuБрюс_ВсемогущийRuEnBruce_AlmightyEn.jpg in Resources */,
+				2C1AD2FA23AE824800F502E8 /* 2000s-RuВверхRuEnUpEn.jpg in Resources */,
+				2C1AD2E723AE824800F502E8 /* 1940_1970s-RuБриллиантовая_рукаRuEnDiamond_handEn.jpg in Resources */,
+				2C1AD2C223AE824800F502E8 /* 1980s-RuРобокопRuEnRoboCopEn.jpg in Resources */,
+				2C1AD29823AE824800F502E8 /* 1990s-RuКороль_левRuEnThe_Lion_KingEn.jpg in Resources */,
+				2C1AD2FB23AE824800F502E8 /* 2000s-RuГарри_ПоттерRuEnHarry_PotterEn.jpg in Resources */,
+				2C1AD30223AE824800F502E8 /* 2000s-RuПианистRuEnThe_PianistEn.jpg in Resources */,
+				2C1AD2AD23AE824800F502E8 /* 2010s-RuГоловоломкаRuEnInside_outEn.jpg in Resources */,
+				2C1AD31523AE824800F502E8 /* 1970s-RuСталкерRuEnStalkerEn.jpg in Resources */,
+				2C1AD2B623AE824800F502E8 /* 2010s-RuКингсманRuEnKingsmanEn.jpg in Resources */,
+				2C1AD29D23AE824800F502E8 /* 1990s-RuБалтоRuEnBaltoEn.jpg in Resources */,
+				2C1AD29023AE824800F502E8 /* 1990s-RuМумияRuEnThe_MummyEn.jpg in Resources */,
+				2C1AD2AC23AE824800F502E8 /* 2010s-RuГолодные_игрыRuEnThe_Hunger_GamesEn.jpg in Resources */,
+				2C1AD2D023AE824800F502E8 /* 1980s-RuТерминаторRuEnThe_TerminatorEn.jpg in Resources */,
+				2C1AD32223AE824800F502E8 /* 1970s-RuАпокалипсис_сегодняRuEnApocalypse_NowEn.jpg in Resources */,
+				2C1AD2B523AE824800F502E8 /* 2010s-RuКак_приручить_драконаRuEnHow_to_train_your_dragonEn.jpg in Resources */,
+				2C1AD2A823AE824800F502E8 /* 2010s-RuНачалоRuEnInceptionEn.jpg in Resources */,
+				2C1AD2D423AE824800F502E8 /* 1940_1970s-RuСнежная_королеваRuEnThe_snow_queenEn.jpg in Resources */,
+				2C1AD2C823AE824800F502E8 /* 1980s-RuБеглецыRuEnLes_fugitifsEn.jpg in Resources */,
+				2C1AD2CA23AE824800F502E8 /* 1980s-RuПолицеская_академияRuEnPolice_AcademyEn.jpg in Resources */,
+				2C1AD2EC23AE824800F502E8 /* 1940_1970s-RuКасабланкаRuEnCasablancaEn.jpg in Resources */,
+				2C1AD31E23AE824800F502E8 /* 1970s-RuКрёстный_отецRuEnThe_GodfatherEn.jpg in Resources */,
+				2C1AD29B23AE824800F502E8 /* 1990s-RuБратRuEnBrotherEn.jpg in Resources */,
+				2C1AD2B323AE824800F502E8 /* 2010s-RuОмерзительная_восьмёркаRuEnThe_hateful_eightEn.jpg in Resources */,
+				2C1AD2BF23AE824800F502E8 /* 2010s-RuФантастические_твари...RuEnFantastic_beasts...En.jpg in Resources */,
+				2C1AD29F23AE824800F502E8 /* 1990s-RuПобег_из_ШоушенкаRuEnThe_Shawshank_RedemptionEn.jpg in Resources */,
+				2C1AD30F23AE824800F502E8 /* 2000s-RuТрасса_60RuEnInterstate_60En.jpg in Resources */,
+				2C1AD31323AE824800F502E8 /* 1970s-RuНу_погодиRuEnNu_pogodiEn.jpg in Resources */,
+				2C1AD2D823AE824800F502E8 /* 1940_1970s-RuПитер_ПэнRuEnPeter_PanEn.jpg in Resources */,
+				2C1AD2D223AE824800F502E8 /* 1980s-RuНазад_в_будущееRuEnBack_to_the_FutureEn.jpg in Resources */,
+				2C1AD2E823AE824800F502E8 /* 1940_1970s-RuЗолушкаRuEnCinderellaEn.jpg in Resources */,
+				2C1AD28C23AE824800F502E8 /* 1990s-RuДжуманджиRuEnJumanjiEn.jpg in Resources */,
+				2C1AD2EF23AE824800F502E8 /* 2000s-RuПираты_Карибского_моряRuEnPirates_of_the_CaribbeanEn.jpg in Resources */,
+				2C1AD29123AE824800F502E8 /* 1990s-RuСемьRuEnSevenEn.jpg in Resources */,
+				2C1AD2B123AE824800F502E8 /* 2010s-RuБёрдмэнRuEnBirdmanEn.jpg in Resources */,
+				2C1AD29923AE824800F502E8 /* 1990s-RuПятый_элементRuEnThe_Fifth_ElementEn.jpg in Resources */,
+				2C1AD2BA23AE824800F502E8 /* 2010s-RuМалефисентаRuEnMaleficentEn.jpg in Resources */,
+				2C1AD32323AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg in Resources */,
+				2C1AD2A123AE824800F502E8 /* 1990s-RuМолчание_ягнятRuEnThe_Silence_of_the_LambsEn.jpg in Resources */,
+				2C1AD30323AE824800F502E8 /* 2000s-RuОстров_проклятыхRuEnShutter_IslandEn.jpg in Resources */,
+				2C1AD2F623AE824800F502E8 /* 2000s-RuОтступникиRuEnThe_DepartedEn.jpg in Resources */,
+				2C1AD28D23AE824800F502E8 /* 1990s-RuШоу_ТруманаRuEnThe_Truman_ShowEn.jpg in Resources */,
+				2C1AD2D123AE824800F502E8 /* 1980s-RuКурьерRuEnCourierEn.jpg in Resources */,
+				2C1AD2E523AE824800F502E8 /* 1940_1970s-RuБэмбиRuEnBambiEn.jpg in Resources */,
+				2C1AD2FF23AE824800F502E8 /* 2000s-RuГладиаторRuEnGladiatorEn.jpg in Resources */,
+				2C1AD2A423AE824800F502E8 /* 2010s-RuИнтерстелларRuEnInterstellarEn.jpg in Resources */,
+				2C1AD29E23AE824800F502E8 /* 1990s-RuЗелёная_миляRuEnThe_Green_MileEn.jpg in Resources */,
+				2C1AD2AF23AE824800F502E8 /* 2010s-RuЗелёная_книгаRuEnGreen_BookEn.jpg in Resources */,
+				2C1AD32023AE824800F502E8 /* 1970s-RuИгрушкаRuEnToyEn.jpg in Resources */,
+				2C1AD2E623AE824800F502E8 /* 1940_1970s-RuПсихоRuEnPsychoEn.jpg in Resources */,
+				2C1AD30A23AE824800F502E8 /* 2000s-RuШерлок_ХолмсRuEnSherlock_HolmesEn.jpg in Resources */,
+				2C1AD2AE23AE824800F502E8 /* 2010s-RuМстителиRuEnThe_AvengersEn.jpg in Resources */,
+				2C1AD2A623AE824800F502E8 /* 2010s-RuДжокерRuEnJokerEn.jpg in Resources */,
+				2C1AD2CC23AE824800F502E8 /* 1980s-RuЛицо_со_шрамомRuEnScarfaceEn.jpg in Resources */,
+				2C1AD30923AE824800F502E8 /* 2000s-RuТёмный_рыцарьRuEnThe_Dark_KnightEn.jpg in Resources */,
+				2C1AD31023AE824800F502E8 /* 1970s-RuДжентельмены_удачиRuEnGentelmen_of_fortuneEn.jpg in Resources */,
+				2C1AD29323AE824800F502E8 /* 1990s-RuМатрицаRuEnThe_MatrixEn.jpg in Resources */,
+				2C1AD2CB23AE824800F502E8 /* 1980s-RuИндиана_ДжонсRuEnIndiana_JonesEn.jpg in Resources */,
+				2C1AD2B023AE824800F502E8 /* 2010s-RuЛегенда_№17RuEnLegend_№17En.jpg in Resources */,
+				2C1AD2CE23AE824800F502E8 /* 1980s-RuБэтменRuEnBatmanEn.jpg in Resources */,
+				2C1AD2AA23AE824800F502E8 /* 2010s-RuИсчезнувшаяRuEnGone_GirlEn.jpg in Resources */,
+				2C1AD2FE23AE824800F502E8 /* 2000s-RuВ_поисках_НемоRuEnFinding_NemoEn.jpg in Resources */,
+				2C1AD2FC23AE824800F502E8 /* 2000s-RuПомниRuEnMementoEn.jpg in Resources */,
+				2C1AD2EB23AE824800F502E8 /* 1940_1970s-RuВеликий_диктаторRuEnThe_Great_DiсtatorEn.jpg in Resources */,
+				2C1AD29A23AE824800F502E8 /* 1990s-RuДостучаться_до_небесRuEnKnockin_on_Heavens_DoorEn.jpg in Resources */,
+				2C1AD2F023AE824800F502E8 /* 2000s-RuСемь_жизнейRuEnSeven_PoundsEn.jpg in Resources */,
+				2C1AD30E23AE824800F502E8 /* 2000s-RuЖелезный_человекRuEnIron_ManEn.jpg in Resources */,
+				2C1AD2BC23AE824800F502E8 /* 2010s-RuСоциальная_сетьRuEnThe_Social_NetworkEn.jpg in Resources */,
+				2C1AD2A523AE824800F502E8 /* 2010s-RuВыжившийRuEnThe_RevenantEn.jpg in Resources */,
+				2C1AD2DF23AE824800F502E8 /* 1940_1970s-RuВерёвкаRuEnRopeEn.jpg in Resources */,
+				2C1AD2F423AE824800F502E8 /* 2000s-RuПоймай_меня,если_сможешьRuEnCatch_Me_If_You_CanEn.jpg in Resources */,
+				2C1AD2C523AE824800F502E8 /* 1980s-RuКин-дза-дзаRuEnKin-dza-dzaEn.jpg in Resources */,
+				2C1AD2A223AE824800F502E8 /* 1990s-RuТитаникRuEnTitanicEn.jpg in Resources */,
+				2C1AD2DA23AE824800F502E8 /* 1940_1970s-RuПохитители_велосипедовRuEnBicycle_ThievesEn.jpg in Resources */,
+				2C1AD2EE23AE824800F502E8 /* 1940_1970s-RuЛетят_журавлиRuEnCranes_are_flyingEn.jpg in Resources */,
+				2C1AD2B423AE824800F502E8 /* 2010s-Ru1+1RuEnIntouchablesEn.jpg in Resources */,
+				2C1AD29223AE824800F502E8 /* 1990s-RuЛюди_в_чёрномRuEnMen_in_BlackEn.jpg in Resources */,
+				2C1AD2E923AE824800F502E8 /* 1940_1970s-RuКавказская_пленницаRuEnCaucasian_captiveEn.jpg in Resources */,
+				2C1AD30C23AE824800F502E8 /* 2000s-RuЗагадочная_история_Б._Б.RuEnThe_curious_case_of_B._B.En.jpg in Resources */,
+				2C1AD2D523AE824800F502E8 /* 1940_1970s-RuСерая_ШейкаRuEnLittle_Gray_NeckEn.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E745E23AD373C009BEF90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E746923AD373C009BEF90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2C7E744623AD3739009BEF90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C7E745223AD3739009BEF90 /* ViewController.swift in Sources */,
+				2C1AD32623AEADC600F502E8 /* UIButtonExtension.swift in Sources */,
+				2C7E744E23AD3739009BEF90 /* AppDelegate.swift in Sources */,
+				2C7E745023AD3739009BEF90 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E745C23AD373C009BEF90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C7E746523AD373C009BEF90 /* FilmFrameTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C7E746723AD373C009BEF90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C7E747023AD373C009BEF90 /* FilmFrameUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2C7E746223AD373C009BEF90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2C7E744923AD3739009BEF90 /* FilmFrame */;
+			targetProxy = 2C7E746123AD373C009BEF90 /* PBXContainerItemProxy */;
+		};
+		2C7E746D23AD373C009BEF90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2C7E744923AD3739009BEF90 /* FilmFrame */;
+			targetProxy = 2C7E746C23AD373C009BEF90 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2C7E745323AD3739009BEF90 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C7E745423AD3739009BEF90 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2C7E745823AD373C009BEF90 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C7E745923AD373C009BEF90 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2C7E747223AD373C009BEF90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2C7E747323AD373C009BEF90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2C7E747523AD373C009BEF90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		2C7E747623AD373C009BEF90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		2C7E747823AD373C009BEF90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrameTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrameTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FilmFrame.app/FilmFrame";
+			};
+			name = Debug;
+		};
+		2C7E747923AD373C009BEF90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrameTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrameTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FilmFrame.app/FilmFrame";
+			};
+			name = Release;
+		};
+		2C7E747B23AD373C009BEF90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrameUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrameUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FilmFrame;
+			};
+			name = Debug;
+		};
+		2C7E747C23AD373C009BEF90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FilmFrameUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ru.laink.FilmFrame.FilmFrameUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FilmFrame;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2C7E744523AD3739009BEF90 /* Build configuration list for PBXProject "FilmFrame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C7E747223AD373C009BEF90 /* Debug */,
+				2C7E747323AD373C009BEF90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C7E747423AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C7E747523AD373C009BEF90 /* Debug */,
+				2C7E747623AD373C009BEF90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C7E747723AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C7E747823AD373C009BEF90 /* Debug */,
+				2C7E747923AD373C009BEF90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2C7E747A23AD373C009BEF90 /* Build configuration list for PBXNativeTarget "FilmFrameUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C7E747B23AD373C009BEF90 /* Debug */,
+				2C7E747C23AD373C009BEF90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2C7E744223AD3739009BEF90 /* Project object */;
+}
