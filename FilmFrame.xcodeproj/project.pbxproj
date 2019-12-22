@@ -162,6 +162,7 @@
 		2C1AD32323AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28923AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg */; };
 		2C1AD32423AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C1AD28A23AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg */; };
 		2C1AD32623AEADC600F502E8 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */; };
+		2C1AD32823AED64800F502E8 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1AD32723AED64800F502E8 /* SecondViewController.swift */; };
 		2C7E744E23AD3739009BEF90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E744D23AD3739009BEF90 /* AppDelegate.swift */; };
 		2C7E745023AD3739009BEF90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E744F23AD3739009BEF90 /* SceneDelegate.swift */; };
 		2C7E745223AD3739009BEF90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E745123AD3739009BEF90 /* ViewController.swift */; };
@@ -170,6 +171,7 @@
 		2C7E745A23AD373C009BEF90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C7E745823AD373C009BEF90 /* LaunchScreen.storyboard */; };
 		2C7E746523AD373C009BEF90 /* FilmFrameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E746423AD373C009BEF90 /* FilmFrameTests.swift */; };
 		2C7E747023AD373C009BEF90 /* FilmFrameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E746F23AD373C009BEF90 /* FilmFrameUITests.swift */; };
+		2CF18E9723AFAD7500EA151C /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF18E9623AFAD7500EA151C /* MenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -345,6 +347,7 @@
 		2C1AD28923AE824800F502E8 /* 1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuСлужебный_романRuEnOffice_romanceEn.jpg"; sourceTree = "<group>"; };
 		2C1AD28A23AE824800F502E8 /* 1970s-RuЗорроRuEnZorroEn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1970s-RuЗорроRuEnZorroEn.jpg"; sourceTree = "<group>"; };
 		2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
+		2C1AD32723AED64800F502E8 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2C7E744A23AD3739009BEF90 /* FilmFrame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FilmFrame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C7E744D23AD3739009BEF90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C7E744F23AD3739009BEF90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -359,6 +362,7 @@
 		2C7E746B23AD373C009BEF90 /* FilmFrameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilmFrameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C7E746F23AD373C009BEF90 /* FilmFrameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmFrameUITests.swift; sourceTree = "<group>"; };
 		2C7E747123AD373C009BEF90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CF18E9623AFAD7500EA151C /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -633,6 +637,8 @@
 				2C7E745623AD373C009BEF90 /* Assets.xcassets */,
 				2C7E745323AD3739009BEF90 /* Main.storyboard */,
 				2C1AD32523AEADC600F502E8 /* UIButtonExtension.swift */,
+				2C1AD32723AED64800F502E8 /* SecondViewController.swift */,
+				2CF18E9623AFAD7500EA151C /* MenuViewController.swift */,
 			);
 			path = FilmFrame;
 			sourceTree = "<group>";
@@ -941,8 +947,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C7E745223AD3739009BEF90 /* ViewController.swift in Sources */,
+				2CF18E9723AFAD7500EA151C /* MenuViewController.swift in Sources */,
 				2C1AD32623AEADC600F502E8 /* UIButtonExtension.swift in Sources */,
 				2C7E744E23AD3739009BEF90 /* AppDelegate.swift in Sources */,
+				2C1AD32823AED64800F502E8 /* SecondViewController.swift in Sources */,
 				2C7E745023AD3739009BEF90 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
